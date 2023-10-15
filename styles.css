@@ -1,0 +1,155 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: rgb(22, 13, 13);
+}
+
+/*pagina de inicio index1*/
+
+.nav1{
+    display: flex;
+    justify-content: flex-start;
+    margin: 40px;
+    
+}
+
+.nav1 a{
+    color: brown;
+    padding: 14px 10px;
+    font-size: 2rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.titulo1{
+    color: brown;
+    display: flex;
+    justify-content: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.parrafo-uno{
+    color: brown;
+    display: flex;
+    justify-content: center;
+    padding: 100px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.precios1{
+    color: red;
+    display: flex;
+    justify-content: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.precios2{
+    color: red;
+    display: flex;
+    justify-content: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.fotologo{
+    display: flex;
+    justify-content: center;
+}
+
+.parrafo-dos{
+    color: brown;
+    display: flex;
+    flex-direction: column;
+    font-size: 1.5rem;
+    padding: 40px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+/*pagina de menu index2*/
+
+.nav2{
+    display: flex;
+    justify-content: flex-start;
+    margin: 40px;
+}
+
+.nav2 a{
+    color: brown;
+    padding: 14px 10px;
+    font-size: 2rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.platos{
+    color: brown;
+    display: flex;
+    justify-content: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.platos-frios{
+    color: red;
+    display: flex;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 10px;
+    padding: 40px;
+}
+
+.platos-calientes{
+    color: red;
+    display: flex;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 10px;
+    padding: 40px;
+}
+
+.carta-texto{
+    color: brown;
+}
+
+.col12 img{
+    width: 150px;
+    height: 150px;
+}
+
+.col8 img{
+    width: 150px;
+    height: 110px;
+}
+
+.row {
+padding: 40px;
+}
+
+/*pagina de reserva index3*/
+
+.nav3{
+    display: flex;
+    justify-content: flex-start;
+    margin: 40px;
+}
+
+.nav3 a{
+    color: brown;
+    padding: 14px 10px;
+    font-size: 2rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.reserva{
+    color: brown;
+    display: flex;
+    justify-content: center;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 10px;
+    padding: 40px;
+}
+
+.formulario2{
+    color: brown;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 10px;
+    padding: 40px;
+}
+
